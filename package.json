@@ -1,0 +1,25 @@
+{
+  "name": "auth0-application-types",
+  "version": "0.0.1",
+  "description": "Application types for quickstart tutorials",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:auth0/application-types.git"
+  },
+  "keywords": [
+    "auth0",
+    "application",
+    "quickstart",
+    "tutorials"
+  ],
+  "author": "Auth0, Inc. <hello@auth0.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auth0/application-types/issues"
+  },
+  "homepage": "https://github.com/auth0/application-types"
+}

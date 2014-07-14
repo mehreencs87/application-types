@@ -1,0 +1,8 @@
+{
+  "name": "application-types",
+  "version": "0.0.1",
+  "description": "Application types for quickstart tutorials",
+  "scripts": [ ],
+  "json": [ "index.json" ],
+  "main": "index.json"
+}

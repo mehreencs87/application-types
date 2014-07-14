@@ -1,0 +1,29 @@
+{
+  "name": "server-platforms",
+  "description": "Application types for quickstart tutorials",
+  "json": [
+    "index.json"
+  ],
+  "main": "index.json",
+  "version": "0.0.1",
+  "homepage": "https://github.com/auth0/application-types",
+  "authors": [
+    "Auth0, Inc. <hello@auth0.com>"
+  ],
+  "keywords": [
+    "auth0",
+    "application",
+    "quickstart",
+    "tutorials"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "build",
+    "test",
+    "tests"
+  ]
+}
