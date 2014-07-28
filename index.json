@@ -8,7 +8,7 @@
   },
   {
     "title": "Single page app",
-    "name": "spa-api",
+    "name": "spa",
     "description": "A JavaScript front-end app that uses an API",
     "example": "eg: AngularJS + NodeJS",
     "budicon": "349"
