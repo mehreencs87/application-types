@@ -1,6 +1,6 @@
 {
   "name": "auth0-application-types",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Application types for quickstart tutorials",
   "main": "index.json",
   "scripts": {
