@@ -15,7 +15,7 @@
   },
   {
     "title": "Regular web app",
-    "name": "web",
+    "name": "webapp",
     "description": "Traditional web app (with refresh)",
     "example": "eg: Java, ASP.NET",
     "budicon": "378"
